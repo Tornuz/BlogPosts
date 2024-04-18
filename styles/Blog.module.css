@@ -1,0 +1,15 @@
+.blogs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .blogs h2 {
+    padding-bottom: 2%;
+  }
+  
+  .blogs h3{
+    cursor: pointer;
+    padding-top: 4%;
+    padding-bottom: 1%;
+  }
